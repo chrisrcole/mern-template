@@ -1,10 +1,10 @@
 {
-  "name": "apollo-fetch",
+  "name": "mern-template",
   "version": "0.1.0",
-  "description": "Web application to shorten links",
+  "description": "MERN Template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cccole3/apollo-fetch"
+    "url": "https://github.com/cccole3/mern-template"
   },
   "author": "Chris Cole",
   "license": "MIT",
